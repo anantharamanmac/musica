@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(57, 220, 187);
+  }
+  canvas {
+    position: absolute;
+  }
+  h1 {
+    margin: 0;
+    color: white;
+    font-family: cursive;
+  }
+  #heading-2 {
+    margin-bottom: 3%;
+  }
+.hide-content {
+    visibility: hidden;
+}
